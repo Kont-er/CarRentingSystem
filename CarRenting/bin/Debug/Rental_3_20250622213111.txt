@@ -1,0 +1,9 @@
+Rental Receipt
+Date: 6/22/2025 9:31:11 PM
+Customer ID: 1
+Car ID: 3
+Start: 6/22/2025
+End: 6/28/2025
+Total: $2100.00
+Payment Method: BLIK
+Coupon: None
