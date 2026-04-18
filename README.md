@@ -13,6 +13,10 @@ A full-stack **Car Rental Management System** built with **C# WinForms (.NET)** 
 - **Storage:** Relational database + file system (receipts)
 
 ---
+<img width="1249" height="734" alt="b4" src="https://github.com/user-attachments/assets/cf1369e8-4b83-4a32-bc41-b2bd4adca0be" />
+
+---
+
 
 ## Features
 
@@ -67,8 +71,7 @@ The system follows a layered structure:
 - **Database layer** – MySQL storage
 
 ---
-<img width="1249" height="734" alt="b4" src="https://github.com/user-attachments/assets/cf1369e8-4b83-4a32-bc41-b2bd4adca0be" />
----
+
 
 ## Summary
 
